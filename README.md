@@ -126,7 +126,7 @@ Me chamo Lucas Gomes, tenho 20 anos. Concluí o ensino médio no SESI SENAI, jun
 <img 
     align="left" 
     alt="GitHub Stats" 
-    height="130%" 
+    height="160"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucazcoding&theme=chartreuse-dark&layout=compact&custom_title=Tecnologias&langs_count=9&width=12"
 />
