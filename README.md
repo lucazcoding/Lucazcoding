@@ -115,7 +115,7 @@ Me chamo Lucas Gomes, tenho 20 anos. Concluí o ensino médio no SESI SENAI, jun
 
 ---
 
-### Coding🌐 e Porcentagens👨🏽‍💻
+### 🌐Coding e Porcentagens👨🏽‍💻
 
 <p>
 
