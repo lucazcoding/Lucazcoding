@@ -1,5 +1,5 @@
 # 👾 Lucas Gomes
-**`Desenvolvedor Backend`**
+**`Desenvolvedor de Software`**
 
 Me chamo Lucas Gomes, tenho 20 anos. Concluí o ensino médio no SESI SENAI, juntamente com o curso técnico em Informática. Atualmente, estou cursando Ciência da Computação na UNIMA AFYA. Sou apaixonado por tecnologia e sigo me aprofundando cada vez mais.
 
