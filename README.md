@@ -125,13 +125,6 @@ Tenho experiência com tecnologias como C#, .NET, Python, JavaScript, bancos de 
 ### 📊 Estatísticas
 
 <p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Lucazcoding&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br"
-  />
-
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucazcoding&theme=github_dark&layout=compact&langs_count=8"
-  />
+  <img height="180em" src="./profile/stats.svg" />
+  <img height="180em" src="./profile/top-langs.svg" />
 </p>
