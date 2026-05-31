@@ -1,8 +1,9 @@
 name: Update README cards
+
 on:
   schedule:
-    - cron: "0 3 * * *"   # roda todo dia às 3h da manhã
-  workflow_dispatch:        # permite rodar manualmente também
+    - cron: "0 3 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
