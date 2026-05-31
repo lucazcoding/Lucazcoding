@@ -1,6 +1,6 @@
 name: Update README cards
 
-on:
+"on":
   schedule:
     - cron: "0 3 * * *"
   workflow_dispatch:
