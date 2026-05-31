@@ -1,8 +1,13 @@
 # 👾 Lucas Gomes
-**`Desenvolvedor de Software`**
+**`Desenvolvedor Full Stack | IA, Agents & Cloud Computing`**
 
-Me chamo Lucas Gomes, tenho 20 anos. Concluí o ensino médio no SESI SENAI, juntamente com o curso técnico em Informática. Atualmente, estou cursando Ciência da Computação na UNIMA AFYA. Sou apaixonado por tecnologia e sigo me aprofundando cada vez mais.
+Me chamo Lucas Gomes, tenho 20 anos e sou estudante de Ciência da Computação na UNIMA AFYA. Sou formado em Técnico em Informática pelo SESI SENAI e atuo no desenvolvimento de aplicações web, APIs, sistemas corporativos e soluções baseadas em Inteligência Artificial.
 
+Atualmente, tenho focado meus estudos e projetos em desenvolvimento Full Stack, arquitetura de software, computação em nuvem (AWS), automação de processos, integração de LLMs, Model Context Protocol (MCP) e construção de agentes inteligentes capazes de interagir com sistemas, APIs e bases de conhecimento.
+
+Tenho experiência com tecnologias como C#, .NET, Python, JavaScript, bancos de dados relacionais, Docker, Linux e serviços cloud, sempre buscando criar soluções escaláveis, eficientes e alinhadas às necessidades do negócio.
+
+🚀 Áreas de interesse: Full Stack Development • AI Agents • MCP • Cloud Computing • Backend Architecture • DevOps
 
 ---
 
@@ -115,15 +120,18 @@ Me chamo Lucas Gomes, tenho 20 anos. Concluí o ensino médio no SESI SENAI, jun
 
 ---
 
-### 🌐Coding e Porcentagens👨🏽‍💻
+---
 
-<p>
+### 📊 Estatísticas
 
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="201"
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucazcoding&theme=chartreuse-dark&layout=compact&custom_title=Tecnologias&langs_count=9&width=1"
-/>
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=Lucazcoding&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br"
+  />
+
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucazcoding&theme=github_dark&layout=compact&langs_count=8"
+  />
 </p>
