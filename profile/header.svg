@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" font-family="'Segoe UI', Ubuntu, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#0a2a22"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#00e5a0"/>
+    </linearGradient>
+    <clipPath id="round"><rect width="1000" height="220" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1000" height="220" fill="url(#bg)"/>
+    <path fill="#00e5a0" fill-opacity="0.10" d="M0 170 C 150 130, 300 210, 500 170 S 850 130, 1000 170 V220 H0 Z">
+      <animate attributeName="d" dur="7s" repeatCount="indefinite" values="M0 170 C 150 130, 300 210, 500 170 S 850 130, 1000 170 V220 H0 Z;M0 170 C 150 210, 300 130, 500 170 S 850 210, 1000 170 V220 H0 Z;M0 170 C 150 130, 300 210, 500 170 S 850 130, 1000 170 V220 H0 Z"/>
+    </path>
+    <path fill="#00e5a0" fill-opacity="0.18" d="M0 190 C 200 160, 350 215, 520 190 S 840 165, 1000 190 V220 H0 Z">
+      <animate attributeName="d" dur="5s" repeatCount="indefinite" values="M0 190 C 200 160, 350 215, 520 190 S 840 165, 1000 190 V220 H0 Z;M0 190 C 200 215, 350 160, 520 190 S 840 215, 1000 190 V220 H0 Z;M0 190 C 200 160, 350 215, 520 190 S 840 165, 1000 190 V220 H0 Z"/>
+    </path>
+    <text x="500" y="100" text-anchor="middle" font-size="64" font-weight="700" fill="url(#title)">Lucas Gomes
+      <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/>
+    </text>
+    <text x="500" y="145" text-anchor="middle" font-size="22" fill="#c9d1d9" letter-spacing="2">Full Stack Developer  •  AI Agents  •  Cloud
+      <animate attributeName="opacity" from="0" to="1" begin="0.6s" dur="1.2s" fill="freeze"/>
+    </text>
+  </g>
+</svg>

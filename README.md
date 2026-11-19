@@ -1,17 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:00e5a0&height=200&section=header&text=Lucas%20Gomes&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20IA%20%26%20Agents%20%E2%80%A2%20Cloud&descAlignY=60&descSize=18" alt="Lucas Gomes" />
+<img src="./profile/header.svg" width="100%" alt="Lucas Gomes — Full Stack Developer, AI Agents, Cloud" />
 
-<a href="https://github.com/lucazcoding">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00E5A0&center=true&vCenter=true&width=720&lines=Desenvolvedor+Full+Stack;Agentes+de+IA+%2B+MCP+%2B+LLMs;APIs+em+C%23+%2F+.NET+e+Python;Docker+%C2%B7+Linux+%C2%B7+AWS;Construindo+do+zero+ao+deploy" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=00E5A0&center=true&vCenter=true&width=720&height=40&lines=Full+Stack+Developer;AI+Agents+%2B+MCP+%2B+LLMs;APIs+in+C%23+%2F+.NET+and+Python;Docker+%C2%B7+Linux+%C2%B7+AWS" alt="" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o-UNIMA%20AFYA-1f6feb?style=for-the-badge" alt="Computer Science" />
-<img src="https://img.shields.io/badge/T%C3%A9cnico%20em%20Inform%C3%A1tica-SESI%20SENAI-00a86b?style=for-the-badge" alt="Technical Degree in IT" />
-<img src="https://img.shields.io/github/followers/lucazcoding?style=for-the-badge&logo=github&color=0d1117" alt="Followers" />
-<img src="https://komarev.com/ghpvc/?username=lucazcoding&style=for-the-badge&color=00e5a0&label=PROFILE%20VIEWS" alt="Visitas" />
+<img src="https://img.shields.io/badge/B.Sc.-Computer%20Science-0d1117?style=for-the-badge&labelColor=0d1117&color=00e5a0" alt="Computer Science" />
+<img src="https://img.shields.io/badge/UNIMA-AFYA-0d1117?style=for-the-badge&labelColor=0d1117&color=00e5a0" alt="UNIMA AFYA" />
+<img src="https://img.shields.io/badge/Technical%20Degree-SESI%20SENAI-0d1117?style=for-the-badge&labelColor=0d1117&color=00e5a0" alt="SESI SENAI" />
 
 </div>
 
